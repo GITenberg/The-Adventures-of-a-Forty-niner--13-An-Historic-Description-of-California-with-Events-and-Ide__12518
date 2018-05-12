@@ -1,5 +1,5 @@
 _repo: The-Adventures-of-a-Forty-niner--13-An-Historic-Description-of-California-with-Events-and-Ide__12518
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ivanowski, Sigismond de
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1875
     gutenberg_agent_id: '4578'
     url: http://www.gutenberg.org/2009/agents/4578
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Knower, Daniel
@@ -15,6 +18,8 @@ creator:
 description: An account of the California Gold Rush by Daniel Knower (born 1823 at
   Albany, New York; died 1897), member of a prominent and respected mid-state New
   York family. Knower arrived at San Francisco in early September 1849 via Panama.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12518#The-Adventures-of-a-Forty-niner--13-An-Historic-Description-of-California-with-Events-and-Ide_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
